@@ -1,0 +1,19 @@
+{
+  "name": "canvas2apng",
+  "version": "1.0.0",
+  "description": "Canvas2APNG lets you make APNG animations with pure Javascript. One JS file is needed to create animations of your changing canvas. You can play the animation directly on your page or save it as a local file (extension .png).  <br/> For more info about APNG see: https://en.wikipedia.org/wiki/APNG",
+  "main": "canvas2apng.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foglerek/canvas2apng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foglerek/canvas2apng/issues"
+  },
+  "homepage": "https://github.com/foglerek/canvas2apng#readme"
+}
